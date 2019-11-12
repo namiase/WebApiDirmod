@@ -1,0 +1,5 @@
+C:\Users\jc\source\repos\WebApiDirmod\Interfases\bin\Debug\Interfases.dll
+C:\Users\jc\source\repos\WebApiDirmod\Interfases\bin\Debug\Interfases.pdb
+C:\Users\jc\source\repos\WebApiDirmod\Interfases\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jc\source\repos\WebApiDirmod\Interfases\obj\Debug\Interfases.dll
+C:\Users\jc\source\repos\WebApiDirmod\Interfases\obj\Debug\Interfases.pdb

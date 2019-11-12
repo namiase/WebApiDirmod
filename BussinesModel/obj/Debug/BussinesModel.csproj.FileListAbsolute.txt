@@ -1,0 +1,5 @@
+C:\Users\jc\source\repos\WebApiDirmod\BussinesModel\bin\Debug\BussinesModel.dll
+C:\Users\jc\source\repos\WebApiDirmod\BussinesModel\bin\Debug\BussinesModel.pdb
+C:\Users\jc\source\repos\WebApiDirmod\BussinesModel\obj\Debug\BussinesModel.csproj.CoreCompileInputs.cache
+C:\Users\jc\source\repos\WebApiDirmod\BussinesModel\obj\Debug\BussinesModel.dll
+C:\Users\jc\source\repos\WebApiDirmod\BussinesModel\obj\Debug\BussinesModel.pdb

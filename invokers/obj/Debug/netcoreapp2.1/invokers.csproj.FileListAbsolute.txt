@@ -1,0 +1,6 @@
+C:\Users\jc\source\repos\WebApiDirmod\invokers\bin\Debug\netcoreapp2.1\invokers.deps.json
+C:\Users\jc\source\repos\WebApiDirmod\invokers\bin\Debug\netcoreapp2.1\invokers.dll
+C:\Users\jc\source\repos\WebApiDirmod\invokers\obj\Debug\netcoreapp2.1\invokers.csprojAssemblyReference.cache
+C:\Users\jc\source\repos\WebApiDirmod\invokers\obj\Debug\netcoreapp2.1\invokers.csproj.CoreCompileInputs.cache
+C:\Users\jc\source\repos\WebApiDirmod\invokers\obj\Debug\netcoreapp2.1\invokers.AssemblyInfoInputs.cache
+C:\Users\jc\source\repos\WebApiDirmod\invokers\obj\Debug\netcoreapp2.1\invokers.AssemblyInfo.cs

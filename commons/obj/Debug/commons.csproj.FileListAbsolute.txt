@@ -1,0 +1,8 @@
+C:\Users\jc\source\repos\WebApiDirmod\commons\bin\Debug\commons.dll
+C:\Users\jc\source\repos\WebApiDirmod\commons\bin\Debug\commons.pdb
+C:\Users\jc\source\repos\WebApiDirmod\commons\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jc\source\repos\WebApiDirmod\commons\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jc\source\repos\WebApiDirmod\commons\obj\Debug\commons.csproj.CoreCompileInputs.cache
+C:\Users\jc\source\repos\WebApiDirmod\commons\obj\Debug\commons.csproj.CopyComplete
+C:\Users\jc\source\repos\WebApiDirmod\commons\obj\Debug\commons.dll
+C:\Users\jc\source\repos\WebApiDirmod\commons\obj\Debug\commons.pdb

@@ -1,0 +1,17 @@
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\ObjectBuilder.dll
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\ObjectBuilder.pdb
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\BussinesModel.dll
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\commons.dll
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\Interfases.dll
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\IObjectBuilder.dll
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\BussinesModel.pdb
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\commons.pdb
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\Interfases.pdb
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\IObjectBuilder.pdb
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\obj\Debug\ObjectBuilder.csprojAssemblyReference.cache
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\obj\Debug\ObjectBuilder.csproj.CoreCompileInputs.cache
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\obj\Debug\ObjectBuilder.csproj.CopyComplete
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\obj\Debug\ObjectBuilder.dll
+C:\Users\jc\source\repos\WebApiDirmod\ObjectBuilder\obj\Debug\ObjectBuilder.pdb

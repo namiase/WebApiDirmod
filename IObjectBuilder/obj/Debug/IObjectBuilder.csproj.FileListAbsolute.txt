@@ -1,0 +1,11 @@
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\bin\Debug\IObjectBuilder.dll
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\bin\Debug\IObjectBuilder.pdb
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\bin\Debug\BussinesModel.dll
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\bin\Debug\Interfases.dll
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\bin\Debug\BussinesModel.pdb
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\bin\Debug\Interfases.pdb
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\obj\Debug\IObjectBuilder.csprojAssemblyReference.cache
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\obj\Debug\IObjectBuilder.csproj.CoreCompileInputs.cache
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\obj\Debug\IObjectBuilder.csproj.CopyComplete
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\obj\Debug\IObjectBuilder.dll
+C:\Users\jc\source\repos\WebApiDirmod\IObjectBuilder\obj\Debug\IObjectBuilder.pdb
